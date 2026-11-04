@@ -1,0 +1,13 @@
+{
+    "timestamp": "20261029_195928",
+    "modo_activo": "opencv_img",
+    "yolo_detecciones": [],
+    "deepface": {
+        "emocion": "Analizando...",
+        "edad": "N/A",
+        "genero": "N/A"
+    },
+    "mediapipe": {
+        "estado_mano": "Sin detectar"
+    }
+}

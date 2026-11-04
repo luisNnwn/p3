@@ -1,0 +1,6 @@
+Pillow
+opencv-python
+ultralytics
+deepface
+Werkzeug
+mediapipe==0.10.21
